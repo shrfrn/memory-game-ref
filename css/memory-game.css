@@ -36,6 +36,6 @@ main {
     transition: opacity 300ms;
 }
 
-:is(.selected, .paired) div{
+:is(.selected, .paired) div {
     opacity: 1;
 }
